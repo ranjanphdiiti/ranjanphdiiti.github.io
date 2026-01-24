@@ -42,7 +42,7 @@ My research focuses on Modal Logic and Rough Set Theory, exploring their interpl
   Khan, Md. A., Ranjan, & Talukdar, A. (2024). *Journal of Applied Non-Classical Logics*, 34(2–3), 223–247.
 
 - **[A Semantics of Basic Modal Language via a Rough Set Framework](https://doi.org/10.1007/978-3-031-89610-1_11)**  
-  Khan, M. A., & Ranjan. (2025). In *Logic and Its Applications (ICLA 2025)*, LNCS 15402, Springer.
+  Khan, Md. A., & Ranjan. (2025). In *Logic and Its Applications (ICLA 2025)*, LNCS 15402, Springer.
 
 - **[A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model](https://doi.org/10.1016/j.ins.2024.121838)**  
   Khan, Md. A., & Ranjan. (2025). *Information Sciences*, 701, 121838.
