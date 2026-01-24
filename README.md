@@ -1,7 +1,7 @@
 # Ranjan
 
 **PhD Researcher**  
-Modal Logic • Rough Set Theory • Formal Reasoning Under Uncertainty  
+Lilavati Lab • POD1E 204
 - Department of Mathematics
 - Indian Institute of Technology Indore
 
