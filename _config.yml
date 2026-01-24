@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
 title: Ranjan
 description: PhD Researcher in Modal Logic and Rough Set Theory
+theme: jekyll-theme-minimal
+
 show_downloads: false
-github:
-  is_project_page: false
+github_username:
