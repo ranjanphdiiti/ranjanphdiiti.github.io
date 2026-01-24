@@ -28,7 +28,7 @@ Lilavati Lab • POD1E 204
 
 ## About Me
 
-I am a PhD researcher in Mathematics at the Indian Institute of Technology Indore. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi. My academic training is rooted in mathematics and logic, and I am currently working under the supervision of <b><a href="[https://people.iiti.ac.in/~aquilk/](https://people.iiti.ac.in/~aquilk/)" target="_blank">Dr. Md Aquil Khan</a></b>. 
+I am a PhD researcher in Mathematics at the Indian Institute of Technology Indore. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi. My academic training is rooted in mathematics and logic, and I am currently working under the supervision of <a href="[https://people.iiti.ac.in/~aquilk/](https://people.iiti.ac.in/~aquilk/)" target="_blank">Dr. Md Aquil Khan</a>. 
 
 My academic journey has been supported by national fellowships and scholarships. Alongside research, I have been involved in teaching assistance for undergraduate mathematics courses and have prior experience as an Assistant Professor in engineering mathematics.
 
