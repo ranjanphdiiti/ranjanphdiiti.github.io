@@ -80,6 +80,7 @@ My research focuses on Modal Logic and Rough Set Theory, exploring their interpl
 <tr>
 <td><img src="pcl5.jpeg" width="250"></td>
 <td><img src="pcl6.jpeg" width="250"></td>
+<td><img src="pcl7.jpeg" width="250"></td>
 </tr>
 </table>
 
