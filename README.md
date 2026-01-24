@@ -1,9 +1,10 @@
-# Ranjan
+<h1 align="center">Ranjan</h1>
 
-**PhD Researcher**  
+<p align="center">
+<b>PhD Researcher</b><br>
+Department of Mathematics, IIT Indore<br>
 Lilavati Lab • POD1E 204
-- Department of Mathematics
-- Indian Institute of Technology Indore
+</p>
 
 ---
 ## About Me
@@ -22,22 +23,26 @@ My research focuses on Modal Logic and Rough Set Theory, exploring their interpl
 ## Publications
 
 - **A Study of Modal Logic with Semantics Based on Rough Set Theory**  
-  *Journal of Applied Non-Classical Logics*
+  Khan, Md. A., Ranjan, & Talukdar, A. (2024). *Journal of Applied Non-Classical Logics*, 34(2–3), 223–247.  
+  🔗 https://doi.org/10.1080/11663081.2024.2336385  
 
 - **A Semantics of Basic Modal Language via a Rough Set Framework**  
-  *LNCS (ICLA 2025)*
+  Khan, M. A., & Ranjan. (2025). In *Logic and Its Applications (ICLA 2025)*, LNCS 15402, Springer.  
+  🔗 https://doi.org/10.1007/978-3-031-89610-1_11  
 
 - **A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model**  
-  *Information Sciences*
+  Khan, Md. A., & Ranjan. (2025). *Information Sciences*, 701, 121838.  
+  🔗 https://doi.org/10.1016/j.ins.2024.121838  
 
 - **A Formal Study of a Rough Set Model Integrating Relational and Neighbourhood System Approaches**  
-  *International Journal of Approximate Reasoning*
+  Khan, Md. A., & Ranjan. (2025). *International Journal of Approximate Reasoning*, 186, 109492.  
+  🔗 https://doi.org/10.1016/j.ijar.2025.109492  
 
 - **A Semantics for Modal Language Using a Rough Set Model Based on Subset Approximation Structure**  
-  *ACM Transactions on Computational Logic*
-
+  Khan, Md. A., & Ranjan. (2025). *ACM Transactions on Computational Logic*, 26(4), Article 19.  
+  🔗 https://doi.org/10.1145/3750045
+  
 ---
-
 ## Talks
 
 - **Semantics of Basic Modal Language via a Rough Set Framework**  
