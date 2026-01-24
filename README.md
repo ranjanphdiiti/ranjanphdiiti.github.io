@@ -126,3 +126,5 @@ Teaching Assistant, IIT Indore
 ## Contact
 
 📧 ranjanphd.iiti@gmail.com
+
+<p align="right"><i>Last updated: January 2026</i></p>
