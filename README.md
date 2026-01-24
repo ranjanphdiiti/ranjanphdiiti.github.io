@@ -2,8 +2,8 @@
 
 **PhD Researcher**  
 Modal Logic • Rough Set Theory • Formal Reasoning Under Uncertainty  
-Department of Mathematics
-Indian Institute of Technology Indore
+- Department of Mathematics
+- Indian Institute of Technology Indore
 
 ---
 
