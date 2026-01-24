@@ -66,21 +66,23 @@ My research focuses on Modal Logic and Rough Set Theory, exploring their interpl
 
   ---
 
+
 ## Conference Visit – Poland
 
 **Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland (2025)**
 
 <table>
 <tr>
-<td><img src="images/pcl2.jpeg" width="250"></td>
-<td><img src="images/pcl3.jpeg" width="250"></td>
-<td><img src="images/pcl4.jpeg" width="250"></td>
+<td><img src="pcl2.jpeg" width="250"></td>
+<td><img src="pcl3.jpeg" width="250"></td>
+<td><img src="pcl4.jpeg" width="250"></td>
 </tr>
 <tr>
-<td><img src="images/pcl5.jpeg" width="250"></td>
-<td><img src="images/pcl6.jpeg" width="250"></td>
+<td><img src="pcl5.jpeg" width="250"></td>
+<td><img src="pcl6.jpeg" width="250"></td>
 </tr>
 </table>
+
 
 ---
 
