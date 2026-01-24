@@ -62,7 +62,27 @@ My research focuses on Modal Logic and Rough Set Theory, exploring their interpl
 
 - Asian Workshop on Philosophical Logic, Jadavpur University, 2025  
 
-- Indian Conference on Logic and its Applications (ICLA), IIT Indore, 2023  
+- Indian Conference on Logic and its Applications (ICLA), IIT Indore, 2023
+
+  ---
+
+## Conference Visit – Poland
+
+**Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland (2025)**
+
+<table>
+<tr>
+<td><img src="images/pcl2.jpg" width="250"></td>
+<td><img src="images/pcl3.jpg" width="250"></td>
+<td><img src="images/pcl4.jpg" width="250"></td>
+</tr>
+<tr>
+<td><img src="images/pcl5.jpg" width="250"></td>
+<td><img src="images/pcl6.jpg" width="250"></td>
+</tr>
+</table>
+
+---
 
 ## Contact
 
