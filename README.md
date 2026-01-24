@@ -6,20 +6,18 @@ Modal Logic • Rough Set Theory • Formal Reasoning Under Uncertainty
 - Indian Institute of Technology Indore
 
 ---
-
 ## About Me
+
+I am a PhD researcher in Mathematics at the Indian Institute of Technology Indore. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi. My academic training is rooted in mathematics and logic, and I am currently working under the supervision of Dr. Md Aquil Khan.
+
+I come from Bihar, India, and my academic journey has been supported by national fellowships and scholarships. Alongside research, I have been involved in teaching assistance for undergraduate mathematics courses and have prior experience as an Assistant Professor in engineering mathematics.  
+
+## Research Interests
 
 My research focuses on Modal Logic and Rough Set Theory, exploring their interplay and mathematical foundations. I specialize in the axiomatization of these systems and the study of their model-theoretic properties, including bisimulation, definability, and expressiveness. My work aims to develop rigorous logical frameworks for reasoning under uncertainty and incomplete information.
 
 ---
 
-## Research Areas
-
-- Modal Logic  
-- Rough Set Theory  
-- Formal Reasoning under Uncertainty  
-
----
 
 ## Publications
 
