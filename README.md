@@ -1,7 +1,8 @@
 <table align="center">
 <tr>
 <td>
-<img src="pcl9.jpeg" width="140" style="border-radius: 50%;">
+<img src="pcl9.jpeg"
+     style="width:140px; height:140px; object-fit:cover; border-radius:50%; border:2px solid #ccc;">
 </td>
 <td style="padding-left: 20px;">
 <h1>Ranjan</h1>
@@ -11,6 +12,7 @@ Lilavati Lab • POD1E 204
 </td>
 </tr>
 </table>
+
 
 
 
