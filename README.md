@@ -6,7 +6,7 @@
 </td>
 <td style="padding-left: 20px;">
 <h1>Ranjan</h1>
-<b>PhD Researcher</b><br>
+<b>Research Scholar</b><br>
 Department of Mathematics, IIT Indore<br>
 Lilavati Lab • POD1E 204
 </td>
@@ -28,9 +28,9 @@ Lilavati Lab • POD1E 204
 
 ## About Me
 
-I am a PhD researcher in Mathematics at the Indian Institute of Technology Indore. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi. My academic training is rooted in mathematics and logic, and I am currently working under the supervision of <a href="https://people.iiti.ac.in/~aquilk" target="_blank">Dr. Md Aquil Khan</a>. 
+I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi.
 
-My academic journey has been supported by national fellowships and scholarships. Alongside research, I have been involved in teaching assistance for undergraduate mathematics courses and have prior experience as an Assistant Professor in engineering mathematics.
+My academic interests lie in mathematics and logic, and I am currently working under the supervision of <a href="https://people.iiti.ac.in/~aquilk" target="_blank">Dr. Md Aquil Khan</a>. My academic journey has been supported by national fellowships and scholarships. Alongside my research, I have served as a teaching assistant for undergraduate mathematics courses and have previous experience teaching Engineering Mathematics as an Assistant Professor.
 
 ---
 
@@ -38,7 +38,7 @@ My academic journey has been supported by national fellowships and scholarships.
 
 **Overview:** Modal Logic • Rough Set Theory • Formal Reasoning under Uncertainty
 
-My research focuses on Modal Logic and Rough Set Theory, exploring their interplay and mathematical foundations. I specialize in the axiomatization of these systems and the study of their model-theoretic properties, including bisimulation, definability, and expressiveness. My work aims to develop rigorous logical frameworks for reasoning under uncertainty and incomplete information.
+My research focuses on the interplay between Modal Logic and Rough Set Theory. I study the axiomatization of modal logics arising from rough set–based approximation systems and analyze their model-theoretic properties, including bisimulation, definability, and expressive power. My work aims to develop rigorous logical frameworks for reasoning under uncertainty and incomplete information.
 
 ---
 
