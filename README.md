@@ -6,7 +6,7 @@
 </td>
 <td style="padding-left: 20px;">
 <h1>Ranjan</h1>
-<b>Research Scholar</b><br>
+<b>PhD Student</b><br>
 Department of Mathematics, IIT Indore<br>
 Lilavati Lab • POD1E 204
 </td>
@@ -30,7 +30,7 @@ Lilavati Lab • POD1E 204
 
 I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi.
 
-My academic interests lie in mathematics and logic, and I am currently working under the supervision of <a href="https://people.iiti.ac.in/~aquilk" target="_blank">Dr. Md Aquil Khan</a>. My academic journey has been supported by national fellowships and scholarships. Alongside my research, I have served as a teaching assistant for undergraduate mathematics courses and have previous experience teaching Engineering Mathematics as an Assistant Professor.
+My research interests lie in modal logic and rough set theory, and I am currently working under the supervision of <a href="https://people.iiti.ac.in/~aquilk" target="_blank">Dr. Md Aquil Khan</a>. My academic journey has been supported by national fellowships and scholarships. Alongside my research, I have served as a teaching assistant for undergraduate mathematics courses and have previous experience teaching Engineering Mathematics as an Assistant Professor.
 
 ---
 
