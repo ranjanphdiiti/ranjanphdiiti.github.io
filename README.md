@@ -38,7 +38,7 @@ My research interests lie in modal logic and rough set theory, and I am currentl
 
 **Overview:** Modal Logic • Rough Set Theory • Formal Reasoning under Uncertainty
 
-My research focuses on the interplay between Modal Logic and Rough Set Theory. I study the axiomatization of modal logics arising from rough set–based approximation systems and analyze their model-theoretic properties, including bisimulation, definability, and expressive power. My work aims to develop rigorous logical frameworks for reasoning under uncertainty and incomplete information.
+My research focuses on the interplay between Modal Logic and Rough Set Theory. I study the axiomatization of modal logics arising from rough set based approximation systems and analyze their model theoretic properties, including bisimulation, definability, and expressive power. My work aims to develop rigorous logical frameworks for reasoning under uncertainty and incomplete information.
 
 ---
 
