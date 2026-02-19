@@ -28,9 +28,7 @@ Lilavati Lab • POD1E 204
 
 ## About Me
 
-I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi. My academic journey has been supported by national fellowships and scholarships.
-
-My research interests lie in modal logic and rough set theory, and I am currently working under the supervision of <a href="https://people.iiti.ac.in/~aquilk" target="_blank">Dr. Md Aquil Khan</a>. Alongside my research, I have served as a teaching assistant for undergraduate mathematics courses and have previous experience teaching Engineering Mathematics as an Assistant Professor.
+I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore. I am currently working under the supervision of <a href="https://people.iiti.ac.in/~aquilk" target="_blank">Dr. Md Aquil Khan</a>. My research interests lie in modal logic and rough set theory. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi. 
 
 ---
 
