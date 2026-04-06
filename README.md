@@ -111,7 +111,7 @@ Lilavati Lab • POD1E 204
   </li>
   <li style="margin-bottom: 10px;">
     <b>Modal Logics for Approximation Frames</b><br>
-    Annual Meet of Calcutta Logic Circle, 2025
+    Annual Meet of Calcutta Logic Circle, Ramakrishna Mission Residential College, Narendrapur, Kolkata, 2025
   </li>
   <li style="margin-bottom: 10px;">
     <b>A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model</b><br>
