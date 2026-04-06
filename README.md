@@ -1,3 +1,17 @@
+<h3 align="center">
+  <a href="#about-me">About Me</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#research-interests">Research Interests</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#publications">Publications</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#talks">Talks</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#workshops--schools-attended">Workshops</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#teaching">Teaching</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#fellowships--awards">Awards</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#conference-visit--poland">Poland Visit</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#contact">Contact</a>
+</h3>
+
+<hr>
+
 <table align="center">
 <tr>
 <td>
@@ -12,10 +26,6 @@ Lilavati Lab • POD1E 204
 </td>
 </tr>
 </table>
-
-
-
-
 
 <p align="center">
 🔍 <a href="https://scholar.google.com/citations?user=0XFe5BYAAAAJ&hl=en" target="_blank">Google Scholar</a> •
@@ -62,17 +72,13 @@ My research focuses on the interplay between Modal Logic and Rough Set Theory. I
 
 ## Talks
 
-- **Semantics of Basic Modal Language via a Rough Set Framework**  
-  Indian Conference on Logic and its Applications (ICLA), ISI Kolkata, 2025  
+- **Semantics of Basic Modal Language via a Rough Set Framework** Indian Conference on Logic and its Applications (ICLA), ISI Kolkata, 2025  
 
-- **Modal Logics for Approximation Frames**  
-  Annual Meet of Calcutta Logic Circle, 2025  
+- **Modal Logics for Approximation Frames** Annual Meet of Calcutta Logic Circle, 2025  
 
-- **A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model**  
-  Polish Congress of Logic, Nicolaus Copernicus University, Poland, 2025  
+- **A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model** Polish Congress of Logic, Nicolaus Copernicus University, Poland, 2025  
 
-- **Modal Logic for Fused Relational-Neighbourhood Rough Set Models**  
-  Australasian Association for Logic (Online), 2025  
+- **Modal Logic for Fused Relational-Neighbourhood Rough Set Models** Australasian Association for Logic (Online), 2025  
 
 ---
 
