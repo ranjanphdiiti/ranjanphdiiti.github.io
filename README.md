@@ -33,7 +33,7 @@ Lilavati Lab • POD1E 204
 🔍 <a href="https://scholar.google.com/citations?user=0XFe5BYAAAAJ&hl=en" target="_blank">Google Scholar</a> •
 🆔 <a href="https://orcid.org/0009-0006-2047-2154" target="_blank">ORCID</a> •
 📘 <a href="https://www.researchgate.net/profile/Ranjan-Iiti" target="_blank">ResearchGate</a> •
-📄 <a href="CV_ranjan.pdf" target="_blank">CV</a>
+📄 <a href="CV_ranjan(F).pdf" target="_blank">CV</a>
 </p>
 
 <hr>
