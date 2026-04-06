@@ -1,17 +1,3 @@
-<h3 align="center">
-  <a href="#about-me">About Me</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#research-interests">Research Interests</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#publications">Publications</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#talks">Talks</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#workshops--schools-attended">Workshops</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#teaching">Teaching</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#fellowships--awards">Awards</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#conference-visit--poland">Poland Visit</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#contact">Contact</a>
-</h3>
-
-<hr>
-
 <table align="center">
 <tr>
 <td>
@@ -36,21 +22,31 @@ Lilavati Lab • POD1E 204
 
 <hr>
 
-## About Me
+<details>
+<summary><h3>👤 About Me</h3></summary>
+<br>
 
 I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore. I am currently working under the supervision of <a href="https://people.iiti.ac.in/~aquilk" target="_blank">Dr. Md Aquil Khan</a>. My research interests lie in modal logic and rough set theory. I completed my M.Sc. in Mathematics from the National Institute of Technology Durgapur and my B.Sc. (Hons.) in Mathematics from the University of Delhi. 
 
----
+</details>
 
-## Research Interests
+<hr>
+
+<details>
+<summary><h3>🔬 Research Interests</h3></summary>
+<br>
 
 **Overview:** Modal Logic • Rough Set Theory • Formal Reasoning under Uncertainty
 
 My research focuses on the interplay between Modal Logic and Rough Set Theory. I study the axiomatization of modal logics arising from rough set based approximation systems and analyze their model theoretic properties, including bisimulation, definability, and expressive power. My work aims to develop rigorous logical frameworks for reasoning under uncertainty and incomplete information.
 
----
+</details>
 
-## Publications
+<hr>
+
+<details>
+<summary><h3>📚 Publications</h3></summary>
+<br>
 
 - <b><a href="https://doi.org/10.1080/11663081.2024.2336385" target="_blank">A Study of Modal Logic with Semantics Based on Rough Set Theory</a></b>  
   Khan, Md. A., Ranjan, & Talukdar, A. (2024). <i>Journal of Applied Non-Classical Logics</i>, 34(2–3), 223–247.
@@ -66,11 +62,14 @@ My research focuses on the interplay between Modal Logic and Rough Set Theory. I
 
 - <b><a href="https://doi.org/10.1145/3750045" target="_blank">A Semantics for Modal Language Using a Rough Set Model Based on Subset Approximation Structure</a></b>  
   Khan, Md. A., & Ranjan. (2025). <i>ACM Transactions on Computational Logic</i>, 26(4), Article 19.
- 
 
----
+</details>
 
-## Talks
+<hr>
+
+<details>
+<summary><h3>🎤 Talks</h3></summary>
+<br>
 
 - **Semantics of Basic Modal Language via a Rough Set Framework** Indian Conference on Logic and its Applications (ICLA), ISI Kolkata, 2025  
 
@@ -80,9 +79,13 @@ My research focuses on the interplay between Modal Logic and Rough Set Theory. I
 
 - **Modal Logic for Fused Relational-Neighbourhood Rough Set Models** Australasian Association for Logic (Online), 2025  
 
----
+</details>
 
-## Workshops & Schools Attended
+<hr>
+
+<details>
+<summary><h3>🏫 Workshops & Schools Attended</h3></summary>
+<br>
 
 - Indian School on Logic and its Applications, IIT Goa, 2024  
   *(Infinite Game Theory, Automata, and Semigroups)*
@@ -93,9 +96,13 @@ My research focuses on the interplay between Modal Logic and Rough Set Theory. I
 
 - Indian Conference on Logic and its Applications (ICLA), IIT Indore, 2023  
 
----
+</details>
 
-## Teaching
+<hr>
+
+<details>
+<summary><h3>👨‍🏫 Teaching</h3></summary>
+<br>
 
 Teaching Assistant, IIT Indore  
 
@@ -104,17 +111,25 @@ Teaching Assistant, IIT Indore
 - Differential Equations  
 - Complex Analysis  
 
----
+</details>
 
-## Fellowships & Awards
+<hr>
+
+<details>
+<summary><h3>🏆 Fellowships & Awards</h3></summary>
+<br>
 
 - UGC Doctoral Fellowship  
 - DST INSPIRE Scholarship  
 - Qualified NET, GATE, JAM (Mathematics)
 
----
+</details>
 
-## Conference Visit – Poland
+<hr>
+
+<details>
+<summary><h3>✈️ Conference Visit – Poland</h3></summary>
+<br>
 
 **Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland (2025)**
 
@@ -131,10 +146,16 @@ Teaching Assistant, IIT Indore
 </tr>
 </table>
 
----
+</details>
 
-## Contact
+<hr>
+
+<details>
+<summary><h3>📧 Contact</h3></summary>
+<br>
 
 📧 ranjanphd.iiti@gmail.com
+
+</details>
 
 <p align="right"><i>Last updated: January 2026</i></p>
