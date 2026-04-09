@@ -1,20 +1,23 @@
 <table>
 <tr>
-<td width="160">
+<td width="180" align="center" valign="middle">
 
-<img src="pcl9.jpeg" width="140" style="border-radius:50%;">
+<img src="pcl9.jpeg" width="130" style="border-radius:50%;">
 
 </td>
-<td>
 
-# Ranjan
+<td valign="middle">
 
-**PhD Student**  
-Department of Mathematics  
-Indian Institute of Technology Indore  
-Lilavati Lab • POD1E 204  
+<h1 style="margin-bottom:6px;">Ranjan</h1>
 
-<p>
+<p style="margin-top:0; line-height:1.5;">
+<b>PhD Student</b><br>
+Department of Mathematics<br>
+Indian Institute of Technology Indore<br>
+Lilavati Lab • POD1E 204
+</p>
+
+<p style="margin-top:8px;">
 <a href="https://scholar.google.com/citations?user=0XFe5BYAAAAJ&hl=en">Google Scholar</a> •
 <a href="https://orcid.org/0009-0006-2047-2154">ORCID</a> •
 <a href="https://www.researchgate.net/profile/Ranjan-Iiti">ResearchGate</a> •
@@ -124,4 +127,4 @@ Deshbandhu College, University of Delhi
 
 ---
 
-*Last updated: January 2026*
+<p align="right"><i>Last updated: January 2026</i></p>
