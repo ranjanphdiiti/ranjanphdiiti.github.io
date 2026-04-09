@@ -18,10 +18,10 @@ Lilavati Lab • POD1E 204
 </p>
 
 <p style="margin-top:8px;">
-<a href="https://scholar.google.com/citations?user=0XFe5BYAAAAJ&hl=en">Google Scholar</a> •
-<a href="https://orcid.org/0009-0006-2047-2154">ORCID</a> •
-<a href="https://www.researchgate.net/profile/Ranjan-Iiti">ResearchGate</a> •
-<a href="CV_ranjan(F).pdf">Curriculum Vitae</a>
+<a href="https://scholar.google.com/citations?user=0XFe5BYAAAAJ&hl=en" target="_blank">Google Scholar</a> •
+<a href="https://orcid.org/0009-0006-2047-2154" target="_blank">ORCID</a> •
+<a href="https://www.researchgate.net/profile/Ranjan-Iiti" target="_blank">ResearchGate</a> •
+<a href="CV_ranjan(F).pdf" target="_blank">Curriculum Vitae</a>
 </p>
 
 </td>
@@ -58,25 +58,35 @@ Deshbandhu College, University of Delhi
 
 ## Publications
 
-1. **A Semantics for Modal Language Using a Rough Set Model Based on Subset Approximation Structure**  
-   *Khan, Md. A., & Ranjan*  
-   *ACM Transactions on Computational Logic*, 26(4), Article 19, 2025  
+1. <b><a href="https://doi.org/10.1145/3750045" target="_blank">
+A Semantics for Modal Language Using a Rough Set Model Based on Subset Approximation Structure
+</a></b>  
+*Khan, Md. A., & Ranjan*  
+*ACM Transactions on Computational Logic*, 26(4), Article 19, 2025  
 
-2. **A Formal Study of a Rough Set Model Integrating Relational and Neighbourhood System Approaches**  
-   *Khan, Md. A., & Ranjan*  
-   *International Journal of Approximate Reasoning*, 186, 109492, 2025  
+2. <b><a href="https://doi.org/10.1016/j.ijar.2025.109492" target="_blank">
+A Formal Study of a Rough Set Model Integrating Relational and Neighbourhood System Approaches
+</a></b>  
+*Khan, Md. A., & Ranjan*  
+*International Journal of Approximate Reasoning*, 186, 109492, 2025  
 
-3. **A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model**  
-   *Khan, Md. A., & Ranjan*  
-   *Information Sciences*, 701, 121838, 2025  
+3. <b><a href="https://doi.org/10.1016/j.ins.2024.121838" target="_blank">
+A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model
+</a></b>  
+*Khan, Md. A., & Ranjan*  
+*Information Sciences*, 701, 121838, 2025  
 
-4. **A Semantics of Basic Modal Language via a Rough Set Framework**  
-   *Khan, Md. A., & Ranjan*  
-   In *Logic and Its Applications (ICLA 2025)*, LNCS 15402, Springer  
+4. <b><a href="https://doi.org/10.1007/978-3-031-89610-1_11" target="_blank">
+A Semantics of Basic Modal Language via a Rough Set Framework
+</a></b>  
+*Khan, Md. A., & Ranjan*  
+In *Logic and Its Applications (ICLA 2025)*, LNCS 15402, Springer  
 
-5. **A Study of Modal Logic with Semantics Based on Rough Set Theory**  
-   *Khan, Md. A., Ranjan, & Talukdar, A.*  
-   *Journal of Applied Non-Classical Logics*, 34(2–3), 223–247, 2024  
+5. <b><a href="https://doi.org/10.1080/11663081.2024.2336385" target="_blank">
+A Study of Modal Logic with Semantics Based on Rough Set Theory
+</a></b>  
+*Khan, Md. A., Ranjan, & Talukdar, A.*  
+*Journal of Applied Non-Classical Logics*, 34(2–3), 223–247, 2024  
 
 ---
 
@@ -93,7 +103,7 @@ Deshbandhu College, University of Delhi
   Polish Congress of Logic, Nicolaus Copernicus University, 2025  
 
 - *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*  
-  Australasian Association for Logic (Online), 2025  
+  Australasian Association for Logic (Online), University of Queensland, 2025  
 
 ### Schools and Workshops
 - Indian School on Logic and its Applications, IIT Goa, 2024  
@@ -127,4 +137,4 @@ Deshbandhu College, University of Delhi
 
 ---
 
-<p align="right"><i>Last updated: January 2026</i></p>
+<p align="right"><sub><i>Last updated: January 2026</i></sub></p>
