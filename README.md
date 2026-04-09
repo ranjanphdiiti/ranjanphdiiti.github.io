@@ -58,36 +58,42 @@ Deshbandhu College, University of Delhi
 
 ## Publications
 
-1. <b><a href="https://doi.org/10.1145/3750045" target="_blank">
+1. <b><a href="#" target="_blank">
+Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems
+</a></b>  
+*Ranjan, Talukdar, A., & Khan, Md. A.*  
+Accepted in *12th International Joint Conference on Rough Sets*, Cádiz (Spain), 2026  
+
+2. <b><a href="https://doi.org/10.1145/3750045" target="_blank">
 A Semantics for Modal Language Using a Rough Set Model Based on Subset Approximation Structure
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 *ACM Transactions on Computational Logic*, 26(4), Article 19, 2025  
 
-2. <b><a href="https://doi.org/10.1016/j.ijar.2025.109492" target="_blank">
+3. <b><a href="https://doi.org/10.1016/j.ijar.2025.109492" target="_blank">
 A Formal Study of a Rough Set Model Integrating Relational and Neighbourhood System Approaches
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 *International Journal of Approximate Reasoning*, 186, 109492, 2025  
 
-3. <b><a href="https://doi.org/10.1016/j.ins.2024.121838" target="_blank">
+4. <b><a href="https://doi.org/10.1016/j.ins.2024.121838" target="_blank">
 A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 *Information Sciences*, 701, 121838, 2025  
 
-4. <b><a href="https://doi.org/10.1007/978-3-031-89610-1_11" target="_blank">
+5. <b><a href="https://doi.org/10.1007/978-3-031-89610-1_11" target="_blank">
 A Semantics of Basic Modal Language via a Rough Set Framework
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 In *Logic and Its Applications (ICLA 2025)*, LNCS 15402, Springer  
 
-5. <b><a href="https://doi.org/10.1080/11663081.2024.2336385" target="_blank">
+6. <b><a href="https://doi.org/10.1080/11663081.2024.2336385" target="_blank">
 A Study of Modal Logic with Semantics Based on Rough Set Theory
 </a></b>  
 *Khan, Md. A., Ranjan, & Talukdar, A.*  
 *Journal of Applied Non-Classical Logics*, 34(2–3), 223–247, 2024  
-
+   
 ---
 
 ## Talks and Academic Activities
@@ -127,7 +133,7 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 - UGC Doctoral Fellowship  
 - DST INSPIRE Scholarship  
-- Qualified: NET, GATE, JAM (Mathematics)  
+- Qualified: NET JRF, GATE, JAM (Mathematics)  
 
 ---
 
@@ -137,4 +143,4 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 ---
 
-<p align="right"><sub><i>Last updated: January 2026</i></sub></p>
+<p align="right"><sub><i>Last updated: April 2026</i></sub></p>
