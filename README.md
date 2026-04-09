@@ -1,3 +1,14 @@
+<p align="center">
+<a href="#research-profile" style="color:black; text-decoration:none; font-weight:bold;">Research</a> •
+<a href="#education" style="color:black; text-decoration:none; font-weight:bold;">Education</a> •
+<a href="#publications" style="color:black; text-decoration:none; font-weight:bold;">Publications</a> •
+<a href="#talks-and-academic-activities" style="color:black; text-decoration:none; font-weight:bold;">Talks</a> •
+<a href="#teaching-experience" style="color:black; text-decoration:none; font-weight:bold;">Teaching</a> •
+<a href="#fellowships-and-awards" style="color:black; text-decoration:none; font-weight:bold;">Awards</a> •
+<a href="#contact" style="color:black; text-decoration:none; font-weight:bold;">Contact</a>
+</p>
+
+---
 <table>
 <tr>
 <td width="180" align="center" valign="middle">
