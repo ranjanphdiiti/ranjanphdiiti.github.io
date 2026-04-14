@@ -59,7 +59,7 @@ My research focuses on the interaction between modal logic and rough set theory,
 **Ph.D. in Mathematics (2023–Present)**  
 Indian Institute of Technology Indore  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: <a href="https://people.iiti.ac.in/~aquilk/" target="_blank"> Prof. Md Aquil Khan</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: <a href="https://people.iiti.ac.in/~aquilk/" target="_blank"> Dr. Md Aquil Khan</a>  
 
 **M.Sc. in Mathematics (2019–2021)**  
 National Institute of Technology Durgapur  
