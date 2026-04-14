@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#research-profile" style="color:black; text-decoration:none; font-weight:bold;">Research Summary</a> •
+<a href="#research-profile" style="color:black; text-decoration:none; font-weight:bold;">Research Profile</a> •
 <a href="#education" style="color:black; text-decoration:none; font-weight:bold;">Education</a> •
 <a href="#publications" style="color:black; text-decoration:none; font-weight:bold;">Publications</a> •
 <a href="#talks-and-academic-activities" style="color:black; text-decoration:none; font-weight:bold;">Talks</a> •
@@ -59,8 +59,13 @@ My research focuses on the interaction between modal logic and rough set theory,
 **Ph.D. in Mathematics (2023–Present)**  
 Indian Institute of Technology Indore  
 
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: <a href="https://people.iiti.ac.in/~aquilk/" target="_blank"> Prof. Md Aquil Khan</a>  
+
 **M.Sc. in Mathematics (2019–2021)**  
 National Institute of Technology Durgapur  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Thesis:** *Extreme Points of Several Subclasses of Analytic and Univalent Functions*  
+&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: <a href="https://nitdgp.ac.in/department/mathematics/faculty-10/md-firoz-ali" target="_blank"> Dr. Md Firoz Ali</a>  
 
 **B.Sc. (Hons.) in Mathematics (2016–2019)**  
 Deshbandhu College, University of Delhi  
@@ -114,18 +119,19 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
   ICLA, ISI Kolkata, 2025  
 
 - *Modal Logics for Approximation Frames*  
-  Calcutta Logic Circle, 2025  
-
+  Calcutta Logic Circle, 2025
+  
 - *A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model*  
-  Polish Congress of Logic, Nicolaus Copernicus University, 2025  
+  Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland, 2025  
 
 - *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*  
-  Australasian Association for Logic (Online), University of Queensland, 2025  
+  Australasian Association for Logic (Hybrid), University of Queensland, Brisbane, Australia, 2025   
 
 ### Schools and Workshops
+- Recent Trends in Logic and Game Theory (RTLG 2026), Madras School of Economics and ISI Chennai, 2026
+- Asian Workshop on Philosophical Logic, Jadavpur University, 2025   
 - Indian School on Logic and its Applications, IIT Goa, 2024  
 - National Workshop on Mathematical Logic and Applications, Gauhati University, 2024  
-- Asian Workshop on Philosophical Logic, Jadavpur University, 2025  
 - ICLA, IIT Indore, 2023  
 
 ---
