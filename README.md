@@ -43,14 +43,16 @@ Lilavati Lab • POD1E 204
 
 ## Research Profile
 
-I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore, working under the supervision of **Dr. Md Aquil Khan**.
+I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore, working under the supervision of <a href="https://people.iiti.ac.in/~aquilk/" target="_blank"> Dr. Md Aquil Khan</a> .
 
 **Research Areas**
 - Modal Logic  
 - Rough Set Theory  
 - Formal Reasoning under Uncertainty  
 
-My research focuses on the interaction between modal logic and rough set theory, particularly the axiomatization of modal systems arising from approximation structures. I study their model-theoretic properties such as bisimulation, definability, and expressive power, with the aim of developing rigorous frameworks for reasoning under uncertainty.
+
+My research focuses on developing modal logical systems that provide sound and complete characterizations of classes of approximation structures and their associated approximation operators. In addition, I study bisimulation techniques that characterize logical equivalence between approximation structures. I investigate definability and expressive power to understand which properties of approximation structures can be expressed within modal languages and to identify the limitations of these languages. These investigations contribute to the logical foundations of rough set theory and formal reasoning under uncertainty and incomplete information.
+
 
 ---
 
@@ -78,33 +80,36 @@ Deshbandhu College, University of Delhi
 Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems
 </a></b>  
 *Ranjan, Talukdar, A., & Khan, Md. A.*  
-Accepted in *12th International Joint Conference on Rough Sets*, Cádiz (Spain), 2026  
+Accepted in *12th International Joint Conference on Rough Sets*, Cádiz (Spain), 2026
+<a href="files/best paper_IJCRS.pdf" target="_blank">
+(Nominated for the Outstanding Student Paper Award)
+</a>
 
-2. <b><a href="https://doi.org/10.1145/3750045" target="_blank">
+3. <b><a href="https://doi.org/10.1145/3750045" target="_blank">
 A Semantics for Modal Language Using a Rough Set Model Based on Subset Approximation Structure
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 *ACM Transactions on Computational Logic*, 26(4), Article 19, 2025  
 
-3. <b><a href="https://doi.org/10.1016/j.ijar.2025.109492" target="_blank">
+4. <b><a href="https://doi.org/10.1016/j.ijar.2025.109492" target="_blank">
 A Formal Study of a Rough Set Model Integrating Relational and Neighbourhood System Approaches
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 *International Journal of Approximate Reasoning*, 186, 109492, 2025  
 
-4. <b><a href="https://doi.org/10.1016/j.ins.2024.121838" target="_blank">
+5. <b><a href="https://doi.org/10.1016/j.ins.2024.121838" target="_blank">
 A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 *Information Sciences*, 701, 121838, 2025  
 
-5. <b><a href="https://doi.org/10.1007/978-3-031-89610-1_11" target="_blank">
+6. <b><a href="https://doi.org/10.1007/978-3-031-89610-1_11" target="_blank">
 A Semantics of Basic Modal Language via a Rough Set Framework
 </a></b>  
 *Khan, Md. A., & Ranjan*  
 In *Logic and Its Applications (ICLA 2025)*, LNCS 15402, Springer  
 
-6. <b><a href="https://doi.org/10.1080/11663081.2024.2336385" target="_blank">
+7. <b><a href="https://doi.org/10.1080/11663081.2024.2336385" target="_blank">
 A Study of Modal Logic with Semantics Based on Rough Set Theory
 </a></b>  
 *Khan, Md. A., Ranjan, & Talukdar, A.*  
