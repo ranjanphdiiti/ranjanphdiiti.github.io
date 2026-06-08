@@ -81,9 +81,7 @@ Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems
 </a></b>  
 *Ranjan, Talukdar, A., & Khan, Md. A.*  
 Accepted in *12th International Joint Conference on Rough Sets*, Cádiz (Spain), 2026
-<a href="files/best paper_IJCRS.pdf" target="_blank">
-(Nominated for the Outstanding Student Paper Award)
-</a>
+<a href="best paper_IJCRS.pdf" target="_blank">(Nominated for the Outstanding Student Paper Award)</a>
 
 
 2. <b><a href="https://doi.org/10.1145/3750045" target="_blank">
