@@ -120,20 +120,20 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 ## Talks and Academic Activities
 
 ### Conference and Seminar Talks
-- *Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems*  
-  12th International Joint Conference on Rough Sets, Cádiz (Spain), May 29, 2026
+- *Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems*
+ <br><a href="https://ijcrs2026.uca.es/program/" target="_blank" rel="noopener noreferrer">12th International Joint Conference on Rough Sets, Cádiz (Spain), May 29, 2026</a>
   
-- *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*  
-  Australasian Association for Logic (Hybrid), University of Queensland, Brisbane, Australia,  November 3, 2025
+- *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*
+ <br><a href="https://sites.google.com/view/aalogic/past-aal-conferences/aal-conference-2025" target="_blank" rel="noopener noreferrer">Australasian Association for Logic (Online), University of Queensland, Brisbane, Australia, November 3, 2025</a>
   
-- *A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model*  
-  Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland, September 25, 2025
+- *A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model*
+   <br><a href="https://logika.net.pl/language/en/pcl-2/program/" target="_blank" rel="noopener noreferrer">Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland, September 25, 2025</a>
 
-  - *Modal Logics for Approximation Frames*  
-  Calcutta Logic Circle, August 31, 2025
+- *Modal Logics for Approximation Frames*
+  <br><a href="https://rkmrc.in/clc-2025/" target="_blank" rel="noopener noreferrer">Calcutta Logic Circle, August 31, 2025</a>
   
 - *Semantics of Basic Modal Language via a Rough Set Framework*
-- <br>[ICLA, ISI Kolkata, February 3, 2025](https://logicindia.org/icla/icla2025/#conference-proceedings-and-program)
+  <br><a href="https://logicindia.org/icla/icla2025/#conference-proceedings-and-program" target="_blank" rel="noopener noreferrer">ICLA, ISI Kolkata, February 3, 2025</a>
 
 
 
