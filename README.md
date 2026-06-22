@@ -120,17 +120,22 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 ## Talks and Academic Activities
 
 ### Conference and Seminar Talks
-- *Semantics of Basic Modal Language via a Rough Set Framework*  
-  ICLA, ISI Kolkata, 2025  
-
-- *Modal Logics for Approximation Frames*  
-  Calcutta Logic Circle, 2025
+- *Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems*  
+  12th International Joint Conference on Rough Sets, Cádiz (Spain), May 29, 2026
+  
+- *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*  
+  Australasian Association for Logic (Hybrid), University of Queensland, Brisbane, Australia,  November 3, 2025
   
 - *A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model*  
-  Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland, 2025  
+  Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland, September 25, 2025
 
-- *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*  
-  Australasian Association for Logic (Hybrid), University of Queensland, Brisbane, Australia, 2025   
+  - *Modal Logics for Approximation Frames*  
+  Calcutta Logic Circle, August 31, 2025
+  
+- *Semantics of Basic Modal Language via a Rough Set Framework*
+- <br>[ICLA, ISI Kolkata, February 3, 2025](https://logicindia.org/icla/icla2025/#conference-proceedings-and-program)
+
+
 
 ### Schools and Workshops
 - Recent Trends in Logic and Game Theory (RTLG 2026), Madras School of Economics and ISI Chennai, 2026
