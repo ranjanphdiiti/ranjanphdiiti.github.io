@@ -19,7 +19,7 @@
 
 <td valign="middle">
 
-<h1 style="margin-bottom:6px;">Ranjan</h1>
+<h1 style="margin-bottom:6px;"><a href="https://ranjanphdiiti.github.io/" style="color: inherit; text-decoration: none;">Ranjan</a></h1>
 
 <p style="margin-top:0; line-height:1.5;">
 <b>Doctoral Researcher</b><br>
