@@ -139,11 +139,16 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 
 ### Schools and Workshops
-1. Recent Trends in Logic and Game Theory (RTLG 2026), Madras School of Economics and ISI Chennai, March 16-18, 2026
-2. Asian Workshop on Philosophical Logic (AWPL 2025), Jadavpur University, February 6-8, 2025   
-3. Indian School on Logic and its Applications (ISLA 2024), IIT Goa, June 3-7, 2024  
-4. National Workshop on Mathematical Logic and Applications (NWMLA 2024), Gauhati University, December 26 - 28, 2024  
-5. 10th Indian Conference on Logic and its Applications (ICLA 2023), IIT Indore, March 3-5, 2023  
+1. Recent Trends in Logic and Game Theory (RTLG 2026)
+   Madras School of Economics and ISI Chennai, March 16-18, 2026
+2. Asian Workshop on Philosophical Logic (AWPL 2025)
+   Jadavpur University, February 6-8, 2025   
+3. Indian School on Logic and its Applications (ISLA 2024)
+   IIT Goa, June 3-7, 2024  
+4. National Workshop on Mathematical Logic and Applications (NWMLA 2024)
+   Gauhati University, December 26 - 28, 2024  
+5. 10th Indian Conference on Logic and its Applications (ICLA 2023)
+   IIT Indore, March 3-5, 2023  
 
 ---
 
