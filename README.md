@@ -123,19 +123,19 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 ### Contributed Talks
 1. *Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems*
- <br><a href="https://ijcrs2026.uca.es/program/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">12th International Joint Conference on Rough Sets, Cádiz (Spain), May 29, 2026</a>
+ <br><a href="https://ijcrs2026.uca.es/program/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">12th International Joint Conference on Rough Sets, Cádiz (Spain), May 26-29, 2026</a>
 
 2. *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*
- <br><a href="https://sites.google.com/view/aalogic/past-aal-conferences/aal-conference-2025" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Australasian Association for Logic (Hybrid), University of Queensland, Brisbane, Australia, November 3, 2025</a>
+ <br><a href="https://sites.google.com/view/aalogic/past-aal-conferences/aal-conference-2025" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Australasian Association for Logic (Hybrid), University of Queensland, Brisbane, Australia, November 3-7, 2025</a>
 
 3. *A Semantics of the Basic Modal Language Based on a Generalized Rough Set Model*
- <br><a href="https://logika.net.pl/language/en/pcl-2/program/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland, September 25, 2025</a>
+ <br><a href="https://logika.net.pl/language/en/pcl-2/program/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Polish Congress of Logic, Nicolaus Copernicus University, Toruń, Poland, September 22-26, 2025</a>
 
 4. *Modal Logics for Approximation Frames*
- <br><a href="https://rkmrc.in/clc-2025/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Calcutta Logic Circle, August 31, 2025</a>
+ <br><a href="https://rkmrc.in/clc-2025/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Calcutta Logic Circle, August 30-31, 2025</a>
 
 5. *Semantics of Basic Modal Language via a Rough Set Framework*
- <br><a href="https://logicindia.org/icla/icla2025/#conference-proceedings-and-program" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">ICLA, ISI Kolkata, February 3, 2025</a>
+ <br><a href="https://logicindia.org/icla/icla2025/#home" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">ICLA, ISI Kolkata, February 3-5, 2025</a>
 
 
 ### Schools and Workshops
