@@ -32,6 +32,7 @@ Lilavati Lab • POD1E 204
 <a href="https://scholar.google.com/citations?user=0XFe5BYAAAAJ&hl=en" target="_blank">Google Scholar</a> •
 <a href="https://orcid.org/0009-0006-2047-2154" target="_blank">ORCID</a> •
 <a href="https://www.researchgate.net/profile/Ranjan-Iiti" target="_blank">ResearchGate</a> •
+<a href="https://www.linkedin.com/in/ranjan164/" target="_blank">LinkedIN</a> •
 <a href="CV_ranjan(F).pdf" target="_blank">Curriculum Vitae</a>
 </p>
 
@@ -176,6 +177,7 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 ## Contact
 
 📧 ranjanphd.iiti@gmail.com  
+
 
 ---
 
