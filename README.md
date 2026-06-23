@@ -166,7 +166,7 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 - ANRF Travel Grant 2026
 - CSIR Travel Grant 2026
 - IIT Indore Institute Travel Grant 2025
-- UGC Doctoral Fellowship  2022
+- UGC Doctoral Fellowship  2022-Present
 - DST INSPIRE Fellowship 2022(not availed)
 - DST INSPIRE Scholarship 2016-2021
 - Qualified: NET JRF, GATE, JAM (Mathematics)  
