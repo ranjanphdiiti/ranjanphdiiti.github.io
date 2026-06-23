@@ -181,4 +181,4 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 ---
 
-<p align="right"><sub><i>Last updated: April 2026</i></sub></p>
+<p align="right"><sub><i>Last updated: June 2026</i></sub></p>
