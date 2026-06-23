@@ -22,7 +22,7 @@
 <h1 style="margin-bottom:6px;">Ranjan</h1>
 
 <p style="margin-top:0; line-height:1.5;">
-<b>PhD Student</b><br>
+<b>Doctoral Researcher</b><br>
 Department of Mathematics<br>
 Indian Institute of Technology Indore<br>
 Lilavati Lab • POD1E 204
@@ -43,12 +43,14 @@ Lilavati Lab • POD1E 204
 
 ## Research Profile
 
-I am a PhD student in the Department of Mathematics at the Indian Institute of Technology Indore, working under the supervision of <a href="https://people.iiti.ac.in/~aquilk/" target="_blank"> Dr. Md Aquil Khan</a> .
+I am a doctoral researcher in the Department of Mathematics at the Indian Institute of Technology Indore, working under the supervision of <a href="https://people.iiti.ac.in/~aquilk/" target="_blank"> Dr. Md Aquil Khan</a> .
 
-**Research Areas**
-- Modal Logic  
+**Research interests**
+- Modal Logic
+- Algebraic Logic
 - Rough Set Theory  
-- Formal Reasoning under Uncertainty  
+- Formal Reasoning under Uncertainty
+
 
 
 My research focuses on developing modal logical systems that provide sound and complete characterizations of classes of approximation structures and their associated approximation operators. In addition, I study bisimulation techniques that characterize logical equivalence between approximation structures. I investigate definability and expressive power to understand which properties of approximation structures can be expressed within modal languages and to identify the limitations of these languages. These investigations contribute to the logical foundations of rough set theory and formal reasoning under uncertainty and incomplete information.
@@ -119,7 +121,7 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 ## Talks and Academic Activities
 
-### Conference and Seminar Talks
+### Contributed Talks
 - *Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems*
  <br><a href="https://ijcrs2026.uca.es/program/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">12th International Joint Conference on Rough Sets, Cádiz (Spain), May 29, 2026</a>
 
@@ -137,28 +139,32 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 
 ### Schools and Workshops
-- Recent Trends in Logic and Game Theory (RTLG 2026), Madras School of Economics and ISI Chennai, 2026
-- Asian Workshop on Philosophical Logic, Jadavpur University, 2025   
-- Indian School on Logic and its Applications, IIT Goa, 2024  
-- National Workshop on Mathematical Logic and Applications, Gauhati University, 2024  
-- ICLA, IIT Indore, 2023  
+- Recent Trends in Logic and Game Theory (RTLG 2026), Madras School of Economics and ISI Chennai, March 16-18, 2026
+- Asian Workshop on Philosophical Logic, Jadavpur University, February 6-8, 2025   
+- Indian School on Logic and its Applications, IIT Goa, June 3-7, 2024  
+- National Workshop on Mathematical Logic and Applications, Gauhati University, December 26 - 28, 2024  
+- ICLA, IIT Indore, March 3-5, 2023  
 
 ---
 
 ## Teaching Experience
 
 **Teaching Assistant, IIT Indore**
-- Numerical Methods  
-- Linear Algebra  
-- Differential Equations  
-- Complex Analysis  
+- Numerical Methods (MA 204)  
+- Linear Algebra (MA 102N)  
+- Differential Equations-I, II (MA 104N & MA 207) 
+- Complex Analysis  (MA 205)
 
 ---
 
-## Fellowships and Awards
+## Awards, Fellowships and Travel Grants
 
-- UGC Doctoral Fellowship  
-- DST INSPIRE Scholarship  
+- ANRF Travel Grant 2026
+- CSIR Travel Grant 2026
+- IIT Indore Institute Travel Grant 2025
+- UGC Doctoral Fellowship  2022
+- DST INSPIRE Fellowship 2022(not availed)
+- DST INSPIRE Scholarship 2016-2021
 - Qualified: NET JRF, GATE, JAM (Mathematics)  
 
 ---
