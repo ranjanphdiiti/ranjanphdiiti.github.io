@@ -124,7 +124,7 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 ### Contributed Talks
 1. *Strong and Weak Approximation Operators in Multi-Source Neighbourhood Systems*
- <br><a href="https://ijcrs2026.uca.es/program/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">12th International Joint Conference on Rough Sets, Cádiz (Spain), May 26-29, 2026</a>
+ <br><a href="https://ijcrs2026.uca.es/program/" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">12th International Joint Conference on Rough Sets, Cádiz, Spain, May 26-29, 2026</a>
 
 2. *Modal Logic for Fused Relational–Neighbourhood Rough Set Models*
  <br><a href="https://sites.google.com/view/aalogic/past-aal-conferences/aal-conference-2025" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Australasian Association for Logic (Hybrid), University of Queensland, Brisbane, Australia, November 3-7, 2025</a>
