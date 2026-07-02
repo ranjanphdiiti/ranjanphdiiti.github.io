@@ -4,7 +4,7 @@
 <a href="#publications" style="color:black; text-decoration:none; font-weight:bold;">Publications</a> •
 <a href="#talks-and-academic-activities" style="color:black; text-decoration:none; font-weight:bold;">Talks</a> •
 <a href="#teaching-experience" style="color:black; text-decoration:none; font-weight:bold;">Teaching</a> •
-<a href="#fellowships-and-awards" style="color:black; text-decoration:none; font-weight:bold;">Awards</a> •
+<a href="#Awards,-Fellowships-and-Travel-Grants" style="color:black; text-decoration:none; font-weight:bold;">Awards</a> •
 <a href="#contact" style="color:black; text-decoration:none; font-weight:bold;">Contact</a>
 </p>
 
