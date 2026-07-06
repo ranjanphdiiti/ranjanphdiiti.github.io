@@ -4,7 +4,7 @@
 <a href="#publications" style="color:black; text-decoration:none; font-weight:bold;">Publications</a> •
 <a href="#talks-and-academic-activities" style="color:black; text-decoration:none; font-weight:bold;">Talks</a> •
 <a href="#teaching-experience" style="color:black; text-decoration:none; font-weight:bold;">Teaching</a> •
-<a href="#awards-fellowships-and-travel-grants" style="color:black; text-decoration:none; font-weight:bold;">Awards</a> •
+<a href="#fellowships-and-travel-grants" style="color:black; text-decoration:none; font-weight:bold;">Fellowships &amp; Travel Grants</a> •
 <a href="#contact" style="color:black; text-decoration:none; font-weight:bold;">Contact</a>
 </p>
 
@@ -144,9 +144,9 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 2. *Asian Workshop on Philosophical Logic (AWPL 2025)*<br>Jadavpur University, February 6-8, 2025
 
-3. *Indian School on Logic and its Applications (ISLA 2024)*<br>IIT Goa, June 3-7, 2024
+3. *National Workshop on Mathematical Logic and Applications (NWMLA 2024)*<br>Gauhati University, December 26 - 28, 2024
 
-4. *National Workshop on Mathematical Logic and Applications (NWMLA 2024)*<br>Gauhati University, December 26 - 28, 2024
+4. *Indian School on Logic and its Applications (ISLA 2024)*<br>IIT Goa, June 3-7, 2024
 
 5. *10th Indian Conference on Logic and its Applications (ICLA 2023)*<br>IIT Indore, March 3-5, 2023
 
@@ -162,7 +162,7 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 ---
 
-## Awards, Fellowships and Travel Grants
+## Fellowships & Travel Grants
 
 - ANRF Travel Grant 2026
 - CSIR Travel Grant 2026
