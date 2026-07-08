@@ -162,7 +162,7 @@ A Study of Modal Logic with Semantics Based on Rough Set Theory
 
 ---
 
-## Fellowships & Travel Grants
+## Fellowships and Travel Grants
 
 - ANRF Travel Grant 2026
 - CSIR Travel Grant 2026
